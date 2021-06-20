@@ -1,0 +1,13 @@
+C:\Users\Jessy\source\repos\TUES\Project_Jessy_Ivana_Teddy\obj\Debug\netcoreapp3.1\Project_Jessy_Ivana_Teddy.csprojAssemblyReference.cache
+C:\Users\Jessy\source\repos\TUES\Project_Jessy_Ivana_Teddy\obj\Debug\netcoreapp3.1\Project_Jessy_Ivana_Teddy.AssemblyInfoInputs.cache
+C:\Users\Jessy\source\repos\TUES\Project_Jessy_Ivana_Teddy\obj\Debug\netcoreapp3.1\Project_Jessy_Ivana_Teddy.AssemblyInfo.cs
+C:\Users\Jessy\source\repos\TUES\Project_Jessy_Ivana_Teddy\obj\Debug\netcoreapp3.1\Project_Jessy_Ivana_Teddy.csproj.CoreCompileInputs.cache
+C:\Users\Jessy\source\repos\TUES\Project_Jessy_Ivana_Teddy\bin\Debug\netcoreapp3.1\Project_Jessy_Ivana_Teddy.exe
+C:\Users\Jessy\source\repos\TUES\Project_Jessy_Ivana_Teddy\bin\Debug\netcoreapp3.1\Project_Jessy_Ivana_Teddy.deps.json
+C:\Users\Jessy\source\repos\TUES\Project_Jessy_Ivana_Teddy\bin\Debug\netcoreapp3.1\Project_Jessy_Ivana_Teddy.runtimeconfig.json
+C:\Users\Jessy\source\repos\TUES\Project_Jessy_Ivana_Teddy\bin\Debug\netcoreapp3.1\Project_Jessy_Ivana_Teddy.runtimeconfig.dev.json
+C:\Users\Jessy\source\repos\TUES\Project_Jessy_Ivana_Teddy\bin\Debug\netcoreapp3.1\Project_Jessy_Ivana_Teddy.dll
+C:\Users\Jessy\source\repos\TUES\Project_Jessy_Ivana_Teddy\bin\Debug\netcoreapp3.1\Project_Jessy_Ivana_Teddy.pdb
+C:\Users\Jessy\source\repos\TUES\Project_Jessy_Ivana_Teddy\obj\Debug\netcoreapp3.1\Project_Jessy_Ivana_Teddy.dll
+C:\Users\Jessy\source\repos\TUES\Project_Jessy_Ivana_Teddy\obj\Debug\netcoreapp3.1\Project_Jessy_Ivana_Teddy.pdb
+C:\Users\Jessy\source\repos\TUES\Project_Jessy_Ivana_Teddy\obj\Debug\netcoreapp3.1\Project_Jessy_Ivana_Teddy.genruntimeconfig.cache
